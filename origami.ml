@@ -1,6 +1,6 @@
 (******************************************)
 (*             ZADANIE ORIGAMI            *)
-(*        ROZWIAZANIE: MARCIN ZOLEK       *)
+(*        ROZWIĄZANIE: MARCIN ŻOŁEK       *)
 (*         RIWJU: PIOTR TRZASKOWSKI       *)
 (******************************************)
 
